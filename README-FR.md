@@ -1,4 +1,4 @@
-[![Français](http://upload.wikimedia.org/wikipedia/commons/1/14/Flag_of_france.png "Française")](README-FR.md)
+[![English](http://upload.wikimedia.org/wikipedia/commons/e/e1/Union_Jack_22x16.png "English")](README.md)
 <h1>
   <span>Fichiers communs pour la documentation</span>
   <a href='http://docs_commons.readthedocs.io/en/latest/?badge=latest'>
