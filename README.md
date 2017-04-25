@@ -1,26 +1,27 @@
 [![Français](http://upload.wikimedia.org/wikipedia/commons/1/14/Flag_of_france.png "Française")](README-FR.md)
+
 <h1>
-  <span>Fichiers communs pour la documentation</span>
-  <a href='http://docs_commons.readthedocs.io/en/latest/?badge=latest'>
+  <span>Common files for the docs</span>
+  <a href='http://docs-commons.rtfd.io/en/latest/?badge=latest'>
     <img src='https://readthedocs.org/projects/docs_commons/badge/?version=latest' alt='Documentation Status' />
   </a>
 </h1>
 
 Object
 ======
-L'objectif est de mettre en place un repo github pour les bases de mes documentations
+The objective is to set up a repo github for the bases of my documentation.
 
 Context
 =======
-Lorsque vous créez ou développez un role ansible ou de l'infrastructure as code, vous devez pour vous même et pour les autres mettre en place une docuementation afin de décrire votre projet.
+When you create or develop a role or infrastructure as code, you must for yourself and others set up documentation to describe your project. 
 
 
-Création des fichiers et répertoires
+Creating files and directories 
 ====================================
-### Création du répertoire **docs**
-Vous devez à la racine de votre repository créer un répertoire **docs**. Il contiendra les fichier de type __*.md__.
+### Creating **docs** folder
+You must create a **docs** directory at the root of your repository. It will contain __*.md__ files.
 
-## Url vers la documentation complète en anglais...
+## Link to the readthedocs web page...
 [Full documentation](http://MODIFY_IT.readthedocs.io/en/latest/)
 
 [![](https://hydra-media.cursecdn.com/bukkit.gamepedia.com/4/4d/AGPL_icon.png "")](LICENSE)
