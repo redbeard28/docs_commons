@@ -15,11 +15,6 @@ Context
 Lorsque vous créez ou développez un role ansible ou de l'infrastructure as code, vous devez pour vous même et pour les autres mettre en place une docuementation afin de décrire votre projet.
 
 
-Création des fichiers et répertoires
-====================================
-### Création du répertoire **docs**
-Vous devez à la racine de votre repository créer un répertoire **docs**. Il contiendra les fichier de type __*.md__.
-
 ## Url vers la documentation complète en anglais...
 [Full documentation](http://MODIFY_IT.readthedocs.io/en/latest/)
 

@@ -16,11 +16,6 @@ Context
 When you create or develop a role or infrastructure as code, you must for yourself and others set up documentation to describe your project. 
 
 
-Creating files and directories 
-====================================
-### Creating **docs** folder
-You must create a **docs** directory at the root of your repository. It will contain __*.md__ files.
-
 ## Link to the readthedocs web page...
 [Full documentation](http://MODIFY_IT.readthedocs.io/en/latest/)
 
