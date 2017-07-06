@@ -18,4 +18,4 @@ Lorsque vous créez ou développez un role ansible ou de l'infrastructure as cod
 ## Url vers la documentation complète en anglais...
 [Full documentation](http://MODIFY_IT.readthedocs.io/en/latest/)
 
-[![](https://hydra-media.cursecdn.com/bukkit.gamepedia.com/4/4d/AGPL_icon.png "")](LICENSE)
+[![](https://www.gnu.org/graphics/gplv3-88x31.png "")](LICENSE)
