@@ -17,6 +17,6 @@ When you create or develop a role or infrastructure as code, you must for yourse
 
 
 ## Link to the readthedocs web page...
-[Full documentation](http://MODIFY_IT.readthedocs.io/en/latest/)
+[Full documentation](http://docs-commons.rtfd.io/)
 
 [![](https://www.gnu.org/graphics/gplv3-88x31.png "")](LICENSE)
