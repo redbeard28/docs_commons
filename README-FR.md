@@ -16,6 +16,6 @@ Lorsque vous créez ou développez un role ansible ou de l'infrastructure as cod
 
 
 ## Url vers la documentation complète en anglais...
-[Full documentation](http://MODIFY_IT.readthedocs.io/en/latest/)
+[Full documentation](http://docs-commons.rtfd.io/)
 
 [![](https://www.gnu.org/graphics/gplv3-88x31.png "")](LICENSE)
